@@ -1,0 +1,9 @@
+uploads/
+outputs/
+__pycache__/
+*.pyc
+*.mp4
+*.wav
+*.mp3
+.claude/
+test_images/
